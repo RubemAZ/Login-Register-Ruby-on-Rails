@@ -1,7 +1,8 @@
 # CRUD Ruby on Rails and Mysql;
 
 # How to start?
+ - Open terminal shell;
  - $ git clone http//
  - $ npm install
- - configure dotenv
  - $ npm run start
+ - Configure dotenv
