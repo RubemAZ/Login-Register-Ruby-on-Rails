@@ -1,4 +1,4 @@
-# CRUD Ruby on Rails and Mysql;
+# CRUD (Create, Read, Update and Delete) system using Ruby on Rails and Mysql;
 
 # How to start?
  - Open terminal shell;
